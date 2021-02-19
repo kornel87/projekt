@@ -1,0 +1,11 @@
+{
+  "name": "zadanie3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.py",
+  "scripts": {
+    "start": "main.py"
+  },
+  "author": "Kornel Uzarowski",
+  "license": "MIT"
+}
